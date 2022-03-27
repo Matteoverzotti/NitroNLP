@@ -1,0 +1,2 @@
+https://spacy.io/models/ro#ro_core_news_lg
+https://github.com/explosion/spaCy/tree/master/spacy/lang/ro
