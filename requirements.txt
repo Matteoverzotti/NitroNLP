@@ -1,0 +1,10 @@
+python3
+    numpy
+    random
+    torch
+    tensorflow
+    jax
+    pandas
+    json
+    spacy
+    csv
